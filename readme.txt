@@ -3,7 +3,7 @@ Contributors: HeyOdai
 Tags: odai, author, widget
 Requires at least: 3.2
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,10 +17,9 @@ I created this plugin to address a problem brought up in this forum thread:
 This plugin creates a simple widget you can drop into any sidebar. On single posts, it will display 
 the post author's Gravatar photo, as well as their name, website, and biography specified on their profile.
 
-On other pages, it does nothing and is invisible to visitors.
+On other pages, it does nothing and is invisible to visitors. Options include changing the widget title and the photo size.
 
-I plan to add customization options soon, but for now, you can style the widget using your own CSS if you like.
-The CSS ID for the widget is `#odai-author-widget`
+You can style the widget using your own CSS if you like. The CSS ID for the widget is `#odai-author-widget`
 
 == Installation ==
 
@@ -38,9 +37,17 @@ This section describes how to install the plugin and get it working.
 == Changelog ==
 
 = 1.0 =
+* Option for widget title
+* Option for Gravatar photo size (in pixels)
+* Cleaned up messy code
+
+= 1.0 =
 * Added basic functionality.
 
 == Upgrade Notice ==
+
+= 1.0 =
+Added title and photo size options, cleaned up messy code.
 
 = 1.0 =
 Initial version.
