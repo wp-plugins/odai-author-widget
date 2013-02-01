@@ -3,7 +3,7 @@ Contributors: HeyOdai
 Tags: odai, author, widget
 Requires at least: 3.2
 Tested up to: 3.5.1
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,18 +36,24 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= 1.0 =
+= 1.1.1 =
+* Fixed typos in the readme file
+
+= 1.1.0 =
 * Option for widget title
 * Option for Gravatar photo size (in pixels)
 * Cleaned up messy code
 
-= 1.0 =
+= 1.0.0 =
 * Added basic functionality.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1.1 =
+Fixing some minor typos in the readme file.
+
+= 1.1.0 =
 Added title and photo size options, cleaned up messy code.
 
-= 1.0 =
+= 1.0.0 =
 Initial version.

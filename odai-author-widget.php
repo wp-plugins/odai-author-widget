@@ -3,7 +3,7 @@
 Plugin Name: Odai Author Widget
 Plugin URI: http://odai.me/author-widget/
 Description: Widget that displays the current post author's Gravatar photo, name, website, and biography. 
-Version: 1.1.0
+Version: 1.1.1
 Author: Odai
 Author URI: http://odai.me
 License: GPLv2
